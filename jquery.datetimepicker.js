@@ -144,7 +144,15 @@
 					dayOfWeek:[
 						"zo", "ma", "di", "wo", "do", "vr", "za"
 					]
-				}
+				},
+				az:{
+					months:[
+						'Yanvar','Fevral','Mart','Aprel','May','Iyun','Iyul','Avqust','Sentyabr','Oktyabr','Noyabr','Dekabr'
+					],
+					dayOfWeek:[
+						"Bazar", "Bazar ert.", "Çərşənbə.", "Çərşənbə axş.", "Cümə axş.", "Cümə", "Şənbə"
+					]
+				},
 			},
 			value:'',
 			lang:'en',
